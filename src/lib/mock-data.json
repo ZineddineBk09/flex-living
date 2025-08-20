@@ -1,0 +1,508 @@
+{
+  "properties": [
+    {
+      "id": 1,
+      "name": "Luxury Apartment in Algiers",
+      "location": "Algiers, Algeria",
+      "address": "SAID HAMDINE, CITE 444 LOGEMENTS",
+      "coordinates": {
+        "lat": 36.7538,
+        "lng": 3.0588
+      },
+      "type": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "guests": 4,
+      "averageRating": 4.5,
+      "totalReviews": 3,
+      "approvedReviews": 2,
+      "price": 120,
+      "description": "Cet appartement chaleureux vous accueille dans un cadre moderne et confortable. Le salon lumineux offre un espace de détente idéal avec ses grandes fenêtres qui laissent entrer la lumière naturelle. La cuisine entièrement équipée dispose de tous les appareils nécessaires : four, micro-ondes, réfrigérateur, ainsi que tous les ustensiles de cuisine. Le Wi-Fi et la télévision sont inclus pour votre confort.\n\nLes deux chambres confortables sont équipées de lits doubles et offrent un repos paisible. La salle de bain bien équipée comprend une douche, des toilettes, des serviettes et du gel douche.\n\nSitué dans le quartier de Bir Mourad Rais, cet appartement bénéficie d'un emplacement privilégié pour explorer la ville et trouver un refuge tranquille après vos aventures. Notre équipe est disponible 24h/24 pour vous assister.\n\nBir Mourad Rais est un magnifique quartier d'Alger avec des logements superbes, des trottoirs propres et ombragés par des conifères, parfait pour les promenades avec des cafés et restaurants charmants.\n\nPoints d'intérêt à proximité :\n• Centre commercial Benaknoun - 10 minutes à pied (1.5km)\n• Sidi Yahia - 10 minutes à pied (1.5km)\n• Garden City - 25 minutes à pied (3.5km)",
+      "images": [
+        "photo-1560448204-e02f11c3d0e2",
+        "photo-1560448075-bb485b067938",
+        "photo-1560448204-603b3fc33ddc",
+        "photo-1560448204-e02f11c3d0e2",
+        "photo-1560448204-603b3fc33ddc"
+      ],
+      "amenities": [
+        {
+          "name": "Wi-Fi",
+          "category": "Internet & office",
+          "icon": "Wifi"
+        },
+        {
+          "name": "TV",
+          "category": "Living room",
+          "icon": "Tv"
+        },
+        {
+          "name": "Air conditioning",
+          "category": "General",
+          "icon": "Snowflake"
+        },
+        {
+          "name": "Kitchen",
+          "category": "Kitchen & dining",
+          "icon": "ChefHat"
+        },
+        {
+          "name": "Free parking",
+          "category": "General",
+          "icon": "Car"
+        },
+        {
+          "name": "Washing machine",
+          "category": "Bedroom & laundry",
+          "icon": "WashingMachine"
+        },
+        {
+          "name": "Dishwasher",
+          "category": "Kitchen & dining",
+          "icon": "Dishwasher"
+        },
+        {
+          "name": "Balcony",
+          "category": "General",
+          "icon": "DoorOpen"
+        },
+        {
+          "name": "Heating",
+          "category": "General",
+          "icon": "Flame"
+        }
+      ],
+      "policies": {
+        "checkIn": "3:00 PM",
+        "checkOut": "10:00 AM",
+        "houseRules": [
+          "No smoking",
+          "No pets"
+        ],
+        "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Modern Studio in Bir Mourad Rais",
+      "location": "Bir Mourad Rais, Algeria",
+      "address": "RUE DES FRERES BOUADOU, BIR MOURAD RAIS",
+      "coordinates": {
+        "lat": 36.7456,
+        "lng": 3.0456
+      },
+      "type": "Studio",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "guests": 2,
+      "averageRating": 5,
+      "totalReviews": 3,
+      "approvedReviews": 1,
+      "price": 85,
+      "description": "Ce studio moderne et élégant est parfait pour les voyageurs d'affaires ou les couples. L'espace est optimisé avec un design contemporain et des équipements de qualité.\n\nLe studio comprend une zone de couchage confortable, une cuisine équipée avec tous les appareils nécessaires, et une salle de bain moderne. Le Wi-Fi haute vitesse et la télévision sont inclus.\n\nSitué dans le quartier résidentiel de Bir Mourad Rais, vous bénéficiez d'un environnement calme et sûr, tout en restant proche des commodités et des transports.\n\nNotre équipe est disponible 24h/24 pour vous assister et s'assurer que votre séjour soit parfait.\n\nPoints d'intérêt à proximité :\n• Centre-ville - 15 minutes en transport\n• Aéroport - 30 minutes en voiture\n• Plage - 20 minutes en transport",
+      "images": [
+        "photo-1502672260266-1c1ef2d93688",
+        "photo-1522708323590-d24dbb6b0267",
+        "photo-1502005229762-cf1b2da7c5d6",
+        "photo-1502672260266-1c1ef2d93688",
+        "photo-1522708323590-d24dbb6b0267"
+      ],
+      "amenities": [
+        {
+          "name": "Wi-Fi",
+          "category": "Internet & office",
+          "icon": "Wifi"
+        },
+        {
+          "name": "TV",
+          "category": "Living room",
+          "icon": "Tv"
+        },
+        {
+          "name": "Air conditioning",
+          "category": "General",
+          "icon": "Snowflake"
+        },
+        {
+          "name": "Kitchen",
+          "category": "Kitchen & dining",
+          "icon": "ChefHat"
+        },
+        {
+          "name": "Free parking",
+          "category": "General",
+          "icon": "Car"
+        },
+        {
+          "name": "Work desk",
+          "category": "Internet & office",
+          "icon": "Monitor"
+        },
+        {
+          "name": "Coffee maker",
+          "category": "Kitchen & dining",
+          "icon": "Coffee"
+        },
+        {
+          "name": "Iron",
+          "category": "Bedroom & laundry",
+          "icon": "Iron"
+        }
+      ],
+      "policies": {
+        "checkIn": "2:00 PM",
+        "checkOut": "11:00 AM",
+        "houseRules": [
+          "No smoking",
+          "No parties"
+        ],
+        "cancellationPolicy": "Free cancellation up to 48 hours before check-in"
+      }
+    },
+    {
+      "id": 3,
+      "name": "Cozy 2-Bedroom Flat",
+      "location": "Algiers, Algeria",
+      "address": "BAB EL OUED, ALGIERS CENTER",
+      "coordinates": {
+        "lat": 36.7892,
+        "lng": 3.0423
+      },
+      "type": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 1,
+      "guests": 3,
+      "averageRating": 3.5,
+      "totalReviews": 2,
+      "approvedReviews": 0,
+      "price": 95,
+      "description": "Cet appartement confortable de 2 chambres est idéal pour les familles ou les groupes d'amis. Situé au cœur d'Alger, vous êtes à proximité de tous les sites touristiques et des commodités.\n\nL'appartement dispose d'un salon spacieux, d'une cuisine fonctionnelle, de deux chambres confortables et d'une salle de bain. Le Wi-Fi et la télévision sont inclus pour votre confort.\n\nLe quartier de Bab El Oued est animé et authentique, offrant une véritable expérience algéroise avec ses marchés, ses cafés traditionnels et ses restaurants locaux.\n\nNotre équipe locale est disponible pour vous aider à découvrir les meilleurs endroits de la ville.\n\nPoints d'intérêt à proximité :\n• Casbah - 10 minutes à pied\n• Place des Martyrs - 15 minutes à pied\n• Marché central - 5 minutes à pied",
+      "images": [
+        "photo-1560185893-a55cbc8c57e8",
+        "photo-1560185127-6ed189bf02f4",
+        "photo-1560185893-a55cbc8c57e8",
+        "photo-1560185127-6ed189bf02f4",
+        "photo-1560185893-a55cbc8c57e8"
+      ],
+      "amenities": [
+        {
+          "name": "Wi-Fi",
+          "category": "Internet & office",
+          "icon": "Wifi"
+        },
+        {
+          "name": "TV",
+          "category": "Living room",
+          "icon": "Tv"
+        },
+        {
+          "name": "Kitchen",
+          "category": "Kitchen & dining",
+          "icon": "ChefHat"
+        },
+        {
+          "name": "Free parking",
+          "category": "General",
+          "icon": "Car"
+        },
+        {
+          "name": "Washing machine",
+          "category": "Bedroom & laundry",
+          "icon": "WashingMachine"
+        },
+        {
+          "name": "Balcony",
+          "category": "General",
+          "icon": "DoorOpen"
+        },
+        {
+          "name": "Heating",
+          "category": "General",
+          "icon": "Flame"
+        },
+        {
+          "name": "Hair dryer",
+          "category": "Bedroom & laundry",
+          "icon": "HairDryer"
+        }
+      ],
+      "policies": {
+        "checkIn": "3:00 PM",
+        "checkOut": "10:00 AM",
+        "houseRules": [
+          "No smoking",
+          "No pets",
+          "No parties"
+        ],
+        "cancellationPolicy": "Free cancellation up to 24 hours before check-in"
+      }
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "propertyId": 1,
+      "listingName": "Luxury Apartment in Algiers",
+      "reviewerName": "Sarah Johnson",
+      "rating": null,
+      "reviewCategory": [
+        {
+          "category": "Cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "Communication",
+          "rating": 4
+        },
+        {
+          "category": "Check-in",
+          "rating": 5
+        },
+        {
+          "category": "Accuracy",
+          "rating": 4
+        },
+        {
+          "category": "Location",
+          "rating": 5
+        },
+        {
+          "category": "Value",
+          "rating": 4
+        }
+      ],
+      "publicReview": "Absolutely stunning apartment! The location was perfect for exploring Algiers, and the apartment was spotlessly clean. The host was very responsive and the check-in process was seamless. Highly recommend!",
+      "submittedDate": "2025-01-15T10:30:00Z",
+      "channel": "Hostaway",
+      "isApproved": true,
+      "isFlagged": false,
+      "response": "Thank you for your feedback. We've addressed the cleanliness issues and will ensure higher standards for future guests."
+    },
+    {
+      "id": 2,
+      "propertyId": 2,
+      "listingName": "Modern Studio in Bir Mourad Rais",
+      "reviewerName": "Michael Chen",
+      "rating": 5,
+      "reviewCategory": [],
+      "publicReview": "Great stay! The studio was modern and well-equipped. Perfect for a business trip. The neighborhood was quiet and safe.",
+      "submittedDate": "2025-01-14T14:20:00Z",
+      "channel": "Google",
+      "isApproved": true,
+      "isFlagged": false,
+      "response": null
+    },
+    {
+      "id": 3,
+      "propertyId": 3,
+      "listingName": "Cozy 2-Bedroom Flat",
+      "reviewerName": "Emma Davis",
+      "rating": null,
+      "reviewCategory": [
+        {
+          "category": "Cleanliness",
+          "rating": 3
+        },
+        {
+          "category": "Communication",
+          "rating": 4
+        },
+        {
+          "category": "Check-in",
+          "rating": 5
+        },
+        {
+          "category": "Accuracy",
+          "rating": 4
+        },
+        {
+          "category": "Location",
+          "rating": 5
+        },
+        {
+          "category": "Value",
+          "rating": 4
+        }
+      ],
+      "publicReview": "The apartment was in a great location and the check-in was smooth. However, the cleanliness could have been better. The host was very communicative though.",
+      "submittedDate": "2025-01-13T09:15:00Z",
+      "channel": "Hostaway",
+      "isApproved": true,
+      "isFlagged": true,
+      "response": "Thank you for your feedback. We've addressed the cleanliness issues and will ensure higher standards for future guests."
+    },
+    {
+      "id": 4,
+      "propertyId": 1,
+      "listingName": "Luxury Apartment in Algiers",
+      "reviewerName": "David Wilson",
+      "rating": 4,
+      "reviewCategory": [],
+      "publicReview": "Beautiful apartment with amazing views. The amenities were top-notch and the location was perfect. Would definitely stay again!",
+      "submittedDate": "2025-01-12T16:45:00Z",
+      "channel": "Google",
+      "isApproved": false,
+      "isFlagged": false,
+      "response": null
+    },
+    {
+      "id": 5,
+      "propertyId": 2,
+      "listingName": "Modern Studio in Bir Mourad Rais",
+      "reviewerName": "Lisa Anderson",
+      "rating": null,
+      "reviewCategory": [
+        {
+          "category": "Cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "Communication",
+          "rating": 5
+        },
+        {
+          "category": "Check-in",
+          "rating": 5
+        },
+        {
+          "category": "Accuracy",
+          "rating": 5
+        },
+        {
+          "category": "Location",
+          "rating": 4
+        },
+        {
+          "category": "Value",
+          "rating": 5
+        }
+      ],
+      "publicReview": "Perfect stay! Everything was exactly as described. The host was incredibly helpful and the apartment was immaculate. The location was convenient for both business and leisure.",
+      "submittedDate": "2025-01-11T11:30:00Z",
+      "channel": "Hostaway",
+      "isApproved": false,
+      "isFlagged": false,
+      "response": null
+    },
+    {
+      "id": 6,
+      "propertyId": 3,
+      "listingName": "Cozy 2-Bedroom Flat",
+      "reviewerName": "James Brown",
+      "rating": 3,
+      "reviewCategory": [],
+      "publicReview": "The apartment was okay but could use some updates. The location was good but the furniture was a bit outdated.",
+      "submittedDate": "2025-01-10T13:20:00Z",
+      "channel": "Google",
+      "isApproved": false,
+      "isFlagged": false,
+      "response": null
+    },
+    {
+      "id": 7,
+      "propertyId": 1,
+      "listingName": "Luxury Apartment in Algiers",
+      "reviewerName": "Maria Garcia",
+      "rating": null,
+      "reviewCategory": [
+        {
+          "category": "Cleanliness",
+          "rating": 5
+        },
+        {
+          "category": "Communication",
+          "rating": 4
+        },
+        {
+          "category": "Check-in",
+          "rating": 4
+        },
+        {
+          "category": "Accuracy",
+          "rating": 5
+        },
+        {
+          "category": "Location",
+          "rating": 5
+        },
+        {
+          "category": "Value",
+          "rating": 4
+        }
+      ],
+      "publicReview": "Excellent apartment with beautiful decor. The location was perfect and the amenities were fantastic. The host was very professional and helpful.",
+      "submittedDate": "2025-01-09T08:45:00Z",
+      "channel": "Hostaway",
+      "isApproved": false,
+      "isFlagged": false,
+      "response": null
+    },
+    {
+      "id": 8,
+      "propertyId": 2,
+      "listingName": "Modern Studio in Bir Mourad Rais",
+      "reviewerName": "Robert Taylor",
+      "rating": 5,
+      "reviewCategory": [],
+      "publicReview": "Amazing studio! Very modern and clean. The host was super responsive and the check-in process was flawless. Highly recommend!",
+      "submittedDate": "2025-01-08T15:10:00Z",
+      "channel": "Google",
+      "isApproved": false,
+      "isFlagged": false,
+      "response": null
+    }
+  ],
+  "trends": {
+    "monthlyStats": [
+      {
+        "month": "Jan 2025",
+        "totalReviews": 8,
+        "averageRating": 4.4,
+        "approvalRate": 37.5
+      },
+      {
+        "month": "Dec 2024",
+        "totalReviews": 12,
+        "averageRating": 4.2,
+        "approvalRate": 41.7
+      },
+      {
+        "month": "Nov 2024",
+        "totalReviews": 15,
+        "averageRating": 4.6,
+        "approvalRate": 53.3
+      }
+    ],
+    "commonIssues": [
+      {
+        "issue": "Cleanliness",
+        "count": 3,
+        "percentage": 37.5
+      },
+      {
+        "issue": "Communication",
+        "count": 2,
+        "percentage": 25
+      },
+      {
+        "issue": "Check-in Process",
+        "count": 1,
+        "percentage": 12.5
+      }
+    ],
+    "channelPerformance": [
+      {
+        "channel": "Hostaway",
+        "totalReviews": 5,
+        "averageRating": 4.4,
+        "approvalRate": 40
+      },
+      {
+        "channel": "Google",
+        "totalReviews": 3,
+        "averageRating": 4.3,
+        "approvalRate": 33.3
+      }
+    ]
+  }
+}
